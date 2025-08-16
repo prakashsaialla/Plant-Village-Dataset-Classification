@@ -1,6 +1,3 @@
-Got it ✅ I checked your notebook. It doesn’t contain descriptive markdown, but from the imports and structure, I can tell it’s a **PlantVillage Dataset Classification** project using **TensorFlow/Keras, scikit-learn, and image preprocessing tools**.
-
-Here’s a professional `README.md` you can use:
 
 ---
 
@@ -90,4 +87,3 @@ This project is licensed under the MIT License – feel free to use and modify.
 
 ---
 
-Would you like me to also generate a **`requirements.txt` file** from your notebook imports so it’s plug-and-play?
